@@ -8,10 +8,6 @@
 
 如果你也想调整 AI 的回答方式, 可以从这里挑选适合自己的规则, 放进 `AGENTS.md`
 
-### [口语化总结 · spoken-summary](https://github.com/wr-fenglei/spoken-summary) · 像 GPT-Live 那样交流
-
-模仿 GPT-Live 自然的口语表达, 用准确的概括抓住重点, 减少冗长难懂的回答, 帮你快速理解长文内容
-
 ### [导航者 · navigator](https://github.com/wr-fenglei/navigator) · 苏格拉底式提问与多 loop 协同
 
 通过苏格拉底式提问, 帮你找到真正想解决的问题, 明确目标和解决方案
